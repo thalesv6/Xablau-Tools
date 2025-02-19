@@ -1,7 +1,7 @@
 # Xablau Tools
 
 ## 🇬🇧 English
-I started a job scanning and indexing documents, so I wrote these simple scripts to automate and make my work easier. If you're dealing with tons of files, this might save you some headaches too! 💻
+I started a job scanning and indexing documents, so I wrote these simple scripts to automate and make my work easier. If you're dealing with tons of files, this might save you some headaches too!
 
 ### 🔧 Tools & Usage
 
@@ -43,7 +43,7 @@ Comecei a trabalhar com digitalização e indexação de documentos, então escr
 
 ### 🔧 Ferramentas e Uso
 
-#### 1. Scripts de Divisão de Arquivos 🪄
+#### 1. Scripts de Divisão de Arquivos 
 Divide um PDF em páginas individuais sempre que encontra a palavra **XABLAU**. Uso para escanear uma grande quantidade de documentos de uma vez separado por paginas padronizadas.
 ```sh
 python xablau.py arquivo.pdf
